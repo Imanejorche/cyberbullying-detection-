@@ -34,9 +34,7 @@ This project focuses on the automatic detection of toxic comments using Natural 
 - `model.pkl`: saved classification model
 - `tfidf.pkl`: saved TF-IDF vectorizer
 
-## Project Context
 
-Project completed as part of a team-based academic project.
 
 
 
